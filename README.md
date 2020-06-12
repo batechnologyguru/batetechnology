@@ -1,1 +1,0 @@
-# batetechnology.github.io

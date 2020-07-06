@@ -18,9 +18,6 @@ menu_settings:
       url: 'https://learn.batechnology.guru'
     - title: 'SIGN IN'
       url: 'https://learn.batechnology.guru/users/sign_in'
-    - title: 'SIGN UP'
-      url: 'https://learn.batechnology.guru/users/sign_up'
-
 
 footer_settings:
   footer_tagline: BA Technology Guru

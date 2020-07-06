@@ -9,14 +9,14 @@
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Header
 
 .header {
-	margin-top: 20px;
+	margin-top: 16px;
 
 	@include mq(tabletp) {
-		margin-top: 25px;
+		margin-top: 16px;
 	}
 
 	@include mq(laptop) {
-		margin-top: 30px;
+		margin-top: 16px;
 	}
 }
 
@@ -33,6 +33,7 @@
 .header__logo__img {
 	width: 100%;
 	height: auto;
+  margin-left: 16px;
 }
 
 .header__title {
@@ -60,7 +61,7 @@
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Menu
 
 .menu {
-	
+
 	@include mq(tabletl) {
 		position: absolute;
 		top: 50%;
@@ -83,7 +84,7 @@
 	@include mq(tabletp) {
 		right: 0;
 	}
-	
+
 	@include mq(tabletl) {
 		display: none;
 	}
@@ -121,16 +122,16 @@
 	span:before, span:after {
 		background: $accent-color !important;
 	}
-		
+
 	span {
 		background-color: transparent !important;
 	}
-	
+
 	span:before,
 	span:after {
 		top: 0;
 	}
-	
+
 	span:before {
 		@include rotate(45);
 	}
@@ -221,8 +222,9 @@
 
 	@include mq(laptop) {
 		font-size: $menu-large;
+		line-height: 2;
 	}
-	
+
 	&.active-link {
 		color: $accent-color;
 	}

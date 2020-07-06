@@ -12,13 +12,18 @@ menu_settings:
       url: 'https://learn.batechnology.guru'
     - title: 'COURSES'
       url: 'https://learn.batechnology.guru/collections'
-    - title: 'ABOUT ME'
-      url: 'https://learn.batechnology.guru/pages/about-me'
-    # - title: 'Blog'
-    #   url: '/blog/'
+    - title: 'ABOUT'
+      url: 'https://learn.batechnology.guru/pages/about'
+    - title: 'BLOG'
+      url: 'https://learn.batechnology.guru'
+    - title: 'SIGN IN'
+      url: 'https://learn.batechnology.guru/users/sign_in'
+    - title: 'SIGN UP'
+      url: 'https://learn.batechnology.guru/users/sign_up'
+
 
 footer_settings:
-  footer_tagline: A sleek, modern Jekyll theme for personal websites.
+  footer_tagline: BA Technology Guru
 
 hero_settings:
   overlay_opacity: 0.13

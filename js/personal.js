@@ -99,7 +99,7 @@
 
 			// If link is handled by some JS action – e.g. fluidbox
 			else if ( $(this).is('.gallery__item__link') ) {
-				
+
 				// Let JS handle it
 			}
 
@@ -107,7 +107,8 @@
 			else if ( thisTarget.indexOf('http') >= 0 ) {
 
 				// Go to the external link
-				window.open(thisTarget, '_blank');
+				window.open(thisTarget, '_self');
+				// window.open(thisTarget, '_blank'); // original setting
 
 			}
 
@@ -116,7 +117,7 @@
 
 				// Change navTarget
 				navTarget = thisTarget;
-				
+
 				// Switch the URL via History
 				History.pushState(null, docTitle, thisTarget);
 			}
@@ -136,7 +137,7 @@
 
 		// Wait until first image has loaded
 		$('.page__content').find('.hero__image').imagesLoaded( { background: true }, function() {
-	
+
 			// Portfolio grid layout
 			$('.portfolio-wrap').imagesLoaded( function() {
 				$('.portfolio-wrap').masonry({
@@ -241,7 +242,7 @@
 							if ( direction === 'down') {
 
 								// console.log('pause');
-							
+
 								// Pause this carousel
 								$this.children('.gallery__wrap').trigger('stop.owl.autoplay');
 							}
@@ -249,7 +250,7 @@
 							if ( direction === 'up') {
 
 								// console.log('play');
-								
+
 								// Play this carousel
 								$this.children('.gallery__wrap').trigger('play.owl.autoplay');
 							}
@@ -265,7 +266,7 @@
 							if ( direction === 'down') {
 
 								// console.log('play');
-								
+
 								// Play this carousel
 								$this.children('.gallery__wrap').trigger('play.owl.autoplay');
 							}
@@ -273,7 +274,7 @@
 							if ( direction === 'up') {
 
 								// console.log('pause');
-							
+
 								// Pause this carousel
 								$this.children('.gallery__wrap').trigger('stop.owl.autoplay');
 							}
@@ -292,7 +293,7 @@
 						itemSelector: '.gallery__item',
 						transitionDuration: 0
 					});
-							
+
 					// Init fluidbox
 					$this.find('.gallery__item__link').fluidbox({
 						loader: true
@@ -380,7 +381,7 @@
 
 			// Change navTarget
 			navTarget = targetPost;
-			
+
 			// Switch the URL via History
 			History.pushState(null, docTitle, targetPost);
 		}
@@ -435,7 +436,7 @@
 		}
 
 	});
-	
-	
-	
+
+
+
 }(jQuery));

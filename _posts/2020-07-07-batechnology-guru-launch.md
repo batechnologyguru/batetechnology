@@ -1,7 +1,7 @@
 ---
-title: 'Demo Post'
-date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+title: 'What Skills Separate Well-Paid Business Analysts from Those Who Struggle?'
+date: 2020-07-10 00:00:00
+description:  Discover the reason why some business analysts are paid more than others
 featured_image: '/images/demo/demo-square.jpg'
 ---
 

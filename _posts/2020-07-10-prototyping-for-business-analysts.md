@@ -1,7 +1,7 @@
 ---
 title: '5 Simple Steps to Design Your Next Business Application'
-date: 2020-07-07 00:00:00
-description: Want to design your next business application? Trello, Balsamiq, and Invision will get you there. Quickly.
+date: 2020-07-10 00:00:00
+description:
 featured_image: '/images/demo/demo-portrait.jpg'
 ---
 

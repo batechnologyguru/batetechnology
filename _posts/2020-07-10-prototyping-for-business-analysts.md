@@ -1,11 +1,11 @@
 ---
-title: 'Demo 5'
-date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/demo/demo-square.jpg'
+title: '5 Simple Steps to Design Your Next Business Application'
+date: 2020-07-10 00:00:00
+description:
+featured_image: '/images/demo/demo-portrait.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/demo/demo-portait.jpg)
 
 ## Demo content
 

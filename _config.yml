@@ -54,6 +54,3 @@ plugins:
 
 paginate: 6
 paginate_path: "/page:num/"
-
-# Google services
-google_analytics: UA-176088913-1

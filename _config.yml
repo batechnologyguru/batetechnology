@@ -54,3 +54,6 @@ plugins:
 
 paginate: 6
 paginate_path: "/page:num/"
+
+# Analytics
+prod-analytics-id:  UA-176088913-1

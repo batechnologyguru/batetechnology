@@ -15,7 +15,7 @@ menu_settings:
     - title: 'ABOUT'
       url: 'https://learn.batechnology.guru/pages/about'
     - title: 'BLOG'
-      url: 'https://batechnology.guru'
+      url: 'https://www.batechnology.guru'
     - title: 'SIGN IN'
       url: 'https://learn.batechnology.guru/users/sign_in'
 

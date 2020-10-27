@@ -34,6 +34,7 @@
 	width: 100%;
 	height: auto;
   margin-left: 16px;
+  margin-bottom: 3px;
 }
 
 .header__title {
@@ -64,8 +65,8 @@
 
 	@include mq(tabletl) {
 		position: absolute;
-		top: 50%;
-		right: 20px;
+		top: 54%;
+		right: 16px;
 		@include translate(0,-50%);
 	}
 }
@@ -191,7 +192,7 @@
 
 	@include mq(tabletl) {
 		display: inline-block;
-		margin-left: 20px;
+		margin-left: 23.5px;
 
 		&:first-child {
 			margin-left: 0;
@@ -227,6 +228,19 @@
 
 	&.active-link {
 		color: $accent-color;
+	}
+}
+
+.menu__list .menu__list__item:last-child a.menu__list__item__link {
+  border: 2px solid #D68C45 !important;
+  color: #D68C45 !important;
+  padding: 12px 16px;
+  transition: .3s ease all;
+  display: inline;
+	&:active, &:hover {
+    background-color: #D68C45;
+    color: #fff !important;
+    box-shadow: 0 7px 15px rgba(0,0,0,0.3)
 	}
 }
 

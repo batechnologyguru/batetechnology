@@ -1,8 +1,8 @@
 ---
 title: 'What Skills Separate Well-Paid Business Analysts from Those Who Struggle?'
 date: 2020-07-07 00:00:00
-description: 'Hint - It might just be technology skills' 
-featured_image: '/images/demo/background-launch-post.jpg'
+description: 'Hint - It might just be technology skills'
+featured_image: '/images/demo/skills.jpg'
 ---
 
 ![](/images/demo/demo-landscape.jpg)

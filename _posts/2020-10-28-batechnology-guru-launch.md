@@ -1,105 +1,50 @@
 ---
-title: 'What Skills Separate Well-Paid Business Analysts from Those Who Struggle?'
-date: 2020-07-07 00:00:00
-description: 'Hint - It might just be technology skills'
-featured_image: '/images/demo/skills.jpg'
----
+title: What Skills Separate Well-Paid Business Analysts from Those Who Struggle?
+date: 2020-07-07T00:00:00.000+00:00
+description: Hint - It might just be technology skills
+featured_image: "/images/demo/skills.jpg"
 
+---
 ![](/images/demo/demo-landscape.jpg)
 
-## Demo content
+Check out any job board, and you'll find plenty of postings for Business Analysts. A quick search of LinkedIn shows over [43,000 active BA job postings on their job board](https://www.linkedin.com/jobs/search/?geoId=103644278&keywords=Business%20Analyst&location=United%20States). And that number is only expected to grow.
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+According to the [US Bureau of Labor Statistics,](https://www.bls.gov/ooh/business-and-financial/management-analysts.htm) the number of BA jobs will grow by 11% in 2020. By 2028 it is expected that there will be almost 1,000,000 BA jobs in the USA alone, up from about 800,000 in 2020. To add to this good news story, they also reported that a Business Analyst's median salary in 2019 was almost $90k.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+While $90k /year is a good salary, it doesn't tell the whole story.
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+If you dig into the numbers a little further, you'll uncover something interesting: one large group of BAs earning in the $50k-$60k range and a smaller group making $100k+. Remember that $90k is a median salary, which can be a bit misleading.
 
-You can create lists:
+\[simple diagram here\]
 
-* Simple bulleted lists
-* Like this one
-* Are cool
+**Examining the Characteristics of High Paying Business Analyst Jobs**
 
-And:
+An excellent place to start investigating the difference in pay in BA jobs is on Dice.com. They just happened to have a list of the [Top 20 Business Analyst jobs](https://www.dice.com/jobs/q-Business+Analyst-jobs). When you start to look at some of these jobs, you'll notice that they're not asking for 20+ years of experience; often, one to two years of experience will do.
 
-1. Numbered lists
-2. Like this other one
-3. Are great too
+What they are asking for is technical skills:
 
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
+1. SQL
+2. JIRA
+3. Salesforce
+4. Data analysis
+5. Cloud computing
+6. Python
+7. RPA
+8. Prototyping
+9. and Tableau, to name a few
 
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
+Nobody expects (or wants) business analysts to be programmers. Instead, employers need power users who can do some technical tasks and, more importantly, communicate effectively with technical personnel.
 
-The theme also supports markdown tables:
+Some organizations are beginning to call this a **'citizen programmer.'**
 
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
+An excellent example of this is the explosion of No-Code tools like UI Path and Blue Prism. These tools allow semi-technical users to create apps through drag-and-drop methods, adding application components to create a complete application. With No-Code, users don't need prior coding knowledge to develop apps.
 
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
+The demand for citizen programmers will continue to grow as more tools come on the market. When I first started in the BA field twenty years ago, you hardly need any technical skills. As long as you had a decent understanding of the Microsoft Office suite, you were okay. The days of the non-technical BA are quickly coming to an end. Which raises the question, how do BAs go about getting the technical skills they require?
 
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
+When I look around at the various training sites, there aren't many sites geared toward teaching BAs technical skills. Sites like Udemy and Pluralsight have tons of courses, but they are far too technical and delve into unnecessary details for non-programmers.
 
-You can throw in some horizontal rules too:
+BA Technology Guru to the Rescue!
 
----
+I created BA Technology Guru to give you the skills you need to tap into high demand, high paying BA jobs. I'll share the tips, tricks, and techniques I have learned from over 20 years as a Business Systems Analyst, Solutions Architect, and Developer.
 
-### Image galleries
-
-Here's a really neat custom feature we added – galleries:
-
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
-
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
----
-
-### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
-
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-### What about videos?
-
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
----
-
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-
-Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+All courses are continually updated, validated by industry professionals, and come with a 14-day free trial. What have you got to lose? Signup today!

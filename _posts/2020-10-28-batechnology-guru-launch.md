@@ -1,6 +1,6 @@
 ---
 title: What Skills Separate Well-Paid Business Analysts from Those Who Struggle?
-date: 2020-11-08 06:00:00 +0000
+date: 2020-11-08T06:00:00.000+00:00
 description: Hint - It might just be technology skills
 featured_image: "/images/demo/skills.jpg"
 
@@ -9,13 +9,13 @@ Check out any job board, and you'll find plenty of postings for Business Analyst
 
 According to the [US Bureau of Labor Statistics,](https://www.bls.gov/ooh/business-and-financial/management-analysts.htm) the number of BA jobs will grow by 11% in 2020. By 2028 it is expected that there will be almost 1,000,000 BA jobs in the USA alone, up from about 800,000 in 2020. To add to this good news story, they also reported that a Business Analyst's median salary in 2019 was almost $90k.
 
-While $90k /year is a good salary, it doesn't tell the whole story.
+> While $90k /year is a good salary, it doesn't tell the whole story.
 
 If you dig into the numbers a little further, you'll uncover something interesting: one large group of BAs earning in the $50k-$60k range and a smaller group making $100k+. Remember that $90k is a median salary, which can be a bit misleading.
 
 \[simple diagram here\]
 
-**Examining the Characteristics of High Paying Business Analyst Jobs**
+## Examining the Characteristics of High Paying Business Analyst Jobs
 
 An excellent place to start investigating the difference in pay in BA jobs is on Dice.com. They just happened to have a list of the [Top 20 Business Analyst jobs](https://www.dice.com/jobs/q-Business+Analyst-jobs). When you start to look at some of these jobs, you'll notice that they're not asking for 20+ years of experience; often, one to two years of experience will do.
 

@@ -21,15 +21,15 @@ An excellent place to start investigating the difference in pay in BA jobs is on
 
 What they are asking for is technical skills:
 
-1. SQL
-2. JIRA
-3. Salesforce
-4. Data analysis
-5. Cloud computing
-6. Python
-7. RPA
-8. Prototyping
-9. and Tableau, to name a few
+* SQL
+* JIRA
+* Salesforce
+* Data analysis
+* Cloud computing
+* Python
+* RPA
+* Prototyping
+* and Tableau, to name a few
 
 Nobody expects (or wants) business analysts to be programmers. Instead, employers need power users who can do some technical tasks and, more importantly, communicate effectively with technical personnel.
 

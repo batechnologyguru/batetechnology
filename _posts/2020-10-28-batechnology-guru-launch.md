@@ -11,9 +11,7 @@ According to the [US Bureau of Labor Statistics,](https://www.bls.gov/ooh/busine
 
 > While $90k /year is a good salary, it doesn't tell the whole story.
 
-If you dig into the numbers a little further, you'll uncover something interesting: one large group of BAs earning in the $50k-$60k range and a smaller group making $100k+. Remember that $90k is a median salary, which can be a bit misleading.
-
-\[simple diagram here\]
+If you dig into the numbers a little further, you'll uncover something interesting: one large group of BAs earning in the $50k-$60k range and a smaller group making $100k+.
 
 ## Examining the Characteristics of High Paying Business Analyst Jobs
 

@@ -31,16 +31,18 @@ What they are asking for is technical skills:
 
 Nobody expects (or wants) business analysts to be programmers. Instead, employers need power users who can do some technical tasks and, more importantly, communicate effectively with technical personnel.
 
-Some organizations are beginning to call this a **'citizen programmer.'**
+> Some organizations are beginning to call this a citizen programmer.
 
-An excellent example of this is the explosion of No-Code tools like UI Path and Blue Prism. These tools allow semi-technical users to create apps through drag-and-drop methods, adding application components to create a complete application. With No-Code, users don't need prior coding knowledge to develop apps.
+The demand for citizen programmers will continue to grow as more tools come on the market. When I first started in the BA field twenty years ago, you hardly need any technical skills. As long as you had a decent understanding of the Microsoft Office suite, that was about all you needed. 
 
-The demand for citizen programmers will continue to grow as more tools come on the market. When I first started in the BA field twenty years ago, you hardly need any technical skills. As long as you had a decent understanding of the Microsoft Office suite, you were okay. The days of the non-technical BA are quickly coming to an end. Which raises the question, how do BAs go about getting the technical skills they require?
+The days of the non-technical BA are quickly coming to an end. Which raises the question, how do BAs go about getting the technical skills they require?
 
-When I look around at the various training sites, there aren't many sites geared toward teaching BAs technical skills. Sites like Udemy and Pluralsight have tons of courses, but they are far too technical and delve into unnecessary details for non-programmers.
+When you look around at the various training sites, there aren't many sites geared toward teaching BAs technical skills. Sites like Udemy and Pluralsight have tons of courses, but they are far too technical and delve into unnecessary details for non-programmers.
 
-BA Technology Guru to the Rescue!
+## BA Technology Guru to the Rescue!
 
-I created BA Technology Guru to give you the skills you need to tap into high demand, high paying BA jobs. I'll share the tips, tricks, and techniques I have learned from over 20 years as a Business Systems Analyst, Solutions Architect, and Developer.
+I created BA Technology Guru to give you the skills you need to tap into high demand, high paying BA jobs. I'll share the tips, tricks, and techniques I have learned from over 20 years as a Business Analyst, Solutions Architect, and Developer.
 
-All courses are continually updated, validated by industry professionals, and come with a 14-day free trial. What have you got to lose? Signup today!
+All courses are continually updated, validated by industry professionals, and come with a 14-day free trial. 
+
+What have you got to lose? Signup today!

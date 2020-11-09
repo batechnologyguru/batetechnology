@@ -17,7 +17,7 @@ If you dig into the numbers a little further, you'll uncover something interesti
 
 An excellent place to start investigating the difference in pay in BA jobs is on Dice.com. They just happened to have a list of the [Top 20 Business Analyst jobs](https://www.dice.com/jobs/q-Business+Analyst-jobs). When you start to look at some of these jobs, you'll notice that they're not asking for 20+ years of experience; often, one to two years of experience will do.
 
-What they are asking for is technical skills:
+What **they are asking for** is **technical skills:**
 
 * SQL
 * JIRA

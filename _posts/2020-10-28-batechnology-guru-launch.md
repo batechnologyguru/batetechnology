@@ -1,6 +1,6 @@
 ---
 title: What Skills Separate Well-Paid Business Analysts from Those Who Struggle?
-date: 2020-07-07T00:00:00.000+00:00
+date: 2020-11-08 06:00:00 +0000
 description: Hint - It might just be technology skills
 featured_image: "/images/demo/skills.jpg"
 

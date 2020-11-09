@@ -29,11 +29,11 @@ What they are asking for is technical skills:
 * Prototyping
 * and Tableau, to name a few
 
-Nobody expects (or wants) business analysts to be programmers. Instead, employers need power users who can do some technical tasks and, more importantly, communicate effectively with technical personnel.
+Nobody expects (or wants) business analysts to be programmers. Instead, employers need power users who can do some technical tasks and, more importantly, communicate effectively with technical personnel (aka citizen developer).
 
-> Some organizations are beginning to call this a citizen programmer.
+> A **citizen developer** is a user who creates new business applications for consumption by others using development and runtime environments sanctioned by corporate IT. - Gartner
 
-The demand for citizen programmers will continue to grow as more tools come on the market. When I first started in the BA field twenty years ago, you hardly need any technical skills. As long as you had a decent understanding of the Microsoft Office suite, that was about all you needed. 
+The demand for citizen developers will continue to grow as more tools come on the market. When I first started in the BA field twenty years ago, you hardly need any technical skills. As long as you had a decent understanding of the Microsoft Office suite, that was about all you needed. 
 
 The days of the non-technical BA are quickly coming to an end. Which raises the question, how do BAs go about getting the technical skills they require?
 

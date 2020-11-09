@@ -20,6 +20,13 @@ body {
 	color: $text-medium-color;
 }
 
+.hero h1 {
+	color: #FFFFFF !important;
+}
+
+.hero p {
+	color: #FFFFFF !important;
+}
 
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Typography
@@ -266,10 +273,6 @@ a {
 		border-color: $accent-color;
 		color: $background-color;
 	}
-}
-
-.hero h1 {
-	color: #FFFFFF;
 }
 
 hr {

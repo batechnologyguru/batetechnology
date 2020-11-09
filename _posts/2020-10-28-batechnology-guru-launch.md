@@ -5,8 +5,6 @@ description: Hint - It might just be technology skills
 featured_image: "/images/demo/skills.jpg"
 
 ---
-![](/images/demo/demo-landscape.jpg)
-
 Check out any job board, and you'll find plenty of postings for Business Analysts. A quick search of LinkedIn shows over [43,000 active BA job postings on their job board](https://www.linkedin.com/jobs/search/?geoId=103644278&keywords=Business%20Analyst&location=United%20States). And that number is only expected to grow.
 
 According to the [US Bureau of Labor Statistics,](https://www.bls.gov/ooh/business-and-financial/management-analysts.htm) the number of BA jobs will grow by 11% in 2020. By 2028 it is expected that there will be almost 1,000,000 BA jobs in the USA alone, up from about 800,000 in 2020. To add to this good news story, they also reported that a Business Analyst's median salary in 2019 was almost $90k.

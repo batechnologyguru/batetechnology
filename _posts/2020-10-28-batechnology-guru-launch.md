@@ -9,7 +9,7 @@ Check out any job board, and you'll find plenty of postings for Business Analyst
 
 According to the [US Bureau of Labor Statistics,](https://www.bls.gov/ooh/business-and-financial/management-analysts.htm) the number of BA jobs will grow by 11% in 2020. By 2028 it is expected that there will be almost 1,000,000 BA jobs in the USA alone, up from about 800,000 in 2020. To add to this good news story, they also reported that a Business Analyst's median salary in 2019 was almost $90k.
 
-> While $90k /year is a good salary, it doesn't tell the whole story.
+_While $90k /year is a good salary, it doesn't tell the whole story._
 
 If you dig into the numbers a little further, you'll uncover something interesting: one large group of BAs earning in the $50k-$60k range and a smaller group making $100k+.
 

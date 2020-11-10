@@ -2,7 +2,7 @@
 
 // Basics
 
-// - - - - - - - - - - - - - - - - - -
+// - - - - - - - - - - -- - - - - - -
 
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Basics
@@ -26,6 +26,10 @@ body {
 
 .hero p {
 	color: #FFFFFF !important;
+}
+
+.hero .section__heading {
+	text-shadow: none !important;
 }
 
 

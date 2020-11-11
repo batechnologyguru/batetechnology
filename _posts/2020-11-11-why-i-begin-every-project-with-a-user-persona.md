@@ -1,7 +1,7 @@
 ---
 title: Why I Begin Every Project With A User Persona
-date: 2020-11-09 06:00:00 +0000
-description: ''
+date: 2020-11-09T06:00:00.000+00:00
+description: And why you should, too
 featured_image: "/uploads/target.jpg"
 
 ---

@@ -56,3 +56,9 @@ Some common pitfalls to watch out for when developing a user persona:
 Personas provide tremendous insight for business analysts during requirements gather and solution design. A detailed user persona will help you determine where to focus your time, guide product development, and allow for alignment across the organization.
 
 For more detail on how to create personas, check out these resource sites:
+
+[The Complete, Actionable Guide to Marketing Personas + Free Templates](https://buffer.com/library/marketing-personas-beginners-guide/)
+
+[Personas – A Simple Introduction](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them)
+
+[What is Persona Development and Why is it Important?](https://www.seguetech.com/persona-development-important/)
